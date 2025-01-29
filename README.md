@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anjana0503
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C, C++, Java, Python programming...
-- 💞️ I’m not currently looking to collaborate on any project but interested in android development projects....
-- 📫 How to reach me -> https://www.facebook.com/profile.php?id=100027368208977
+- 🌱 I currently know C, C++, Java, Python programming.
+- 💞️ looking to collaborate on projects, interested in AI-ML and android development projects.
+- 📫 How to reach me -> (https://www.linkedin.com/in/anjana-das-6345b8202/)
 
 <!---
 Anjana0503/Anjana0503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
